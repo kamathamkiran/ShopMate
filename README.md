@@ -18,22 +18,22 @@ Welcome to ShopMate, your go-to web app for managing your shopping lists seamles
    git clone https://github.com/kamathamkiran/ShopMate.git
 2. Open the project folder:
    ```bash
-   cd grocerylist-app
+   cd ShopMate
    
 4. Open the index.html file in your preferred web browser or use a local development server.
 5. Customize the app to suit your needs.
 
 ## Firebase Configuration
-Set up a Firebase project: [Firebase Console](https://console.firebase.google.com).
-Create a new Firestore database and configure your Firebase credentials.
+- Set up a Firebase project: [Firebase Console](https://console.firebase.google.com).
+- Create a new Firestore database and configure your Firebase credentials.
 ## Deployment on Netlify
-Sign up for a Netlify account: Netlify.
-Connect your GitHub repository to Netlify for automatic deployments.
+- Sign up for a Netlify account: [Netlify](https://www.netlify.com/).
+- Connect your GitHub repository to Netlify for automatic deployments.
 ## Live Demo
-Check out the live demo: GroceryList App
+- Check out the live demo: [ShopMate App](shopmate-grocerylist-app.netlify.app)
 
 ## Contributing
-Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and contributions are highly appreciated.
+- Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and contributions are highly appreciated.
 
 
 
