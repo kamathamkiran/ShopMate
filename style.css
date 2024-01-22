@@ -10,11 +10,11 @@ body {
 .container {
     display: flex;
     flex-direction: column;
-    max-width: 250px;
-    margin: auto;
+    max-width: 280px;
+    margin: 30px auto;
 }
 
-img {
+#cart-img {
     width: 180px;
     margin: 0 auto;
 }
