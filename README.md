@@ -4,11 +4,11 @@ Welcome to ShopMate, your go-to web app for managing your shopping lists seamles
 
 ## Features
 
--- **User-Friendly Interface**: Create and manage your grocery lists with a simple and intuitive interface.
--- **Real-time Data Storage**: Utilize the power of Google Firebase to store your lists securely in real-time.
--- **Responsive Design**: Access your lists on various devices with a responsive design that adapts to different screen sizes.
--- **Effortless Item Management**: Easily add and remove items from your list with just a few clicks.
--- **Cross-Device Syncing**: Keep your lists in sync across different devices for a seamless experience.
+- **User-Friendly Interface**: Create and manage your grocery lists with a simple and intuitive interface.
+- **Real-time Data Storage**: Utilize the power of Google Firebase to store your lists securely in real-time.
+- **Responsive Design**: Access your lists on various devices with a responsive design that adapts to different screen sizes.
+- **Effortless Item Management**: Easily add and remove items from your list with just a few clicks.
+- **Cross-Device Syncing**: Keep your lists in sync across different devices for a seamless experience.
 
 ## Getting Started
 
