@@ -24,7 +24,7 @@ Welcome to ShopMate, your go-to web app for managing your shopping lists seamles
 5. Customize the app to suit your needs.
 
 ## Firebase Configuration
-Set up a Firebase project: Firebase Console[https://console.firebase.google.com].
+Set up a Firebase project: [Firebase Console](https://console.firebase.google.com).
 Create a new Firestore database and configure your Firebase credentials.
 ## Deployment on Netlify
 Sign up for a Netlify account: Netlify.
